@@ -32,16 +32,8 @@ O objetivo deste projeto é **fornecer um modelo** que pode ser utilizado para i
 - **Repositories**: Camada de abstração para comunicação com o banco de dados.
 - **Tests**: Conjunto de testes unitários seguindo o padrão TDD.
 
-## Instalação e Configuração
-
-### Requisitos
+## Requisitos
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 
-### Passos
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/template-api-rest.git
